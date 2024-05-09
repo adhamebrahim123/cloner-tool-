@@ -1,0 +1,788 @@
+{
+    "name": "0000 Services",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Text Channels",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Text Channels",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "b2.m",
+                                "avatar": "https://cdn.discordapp.com/avatars/1059760626295132210/e5abfeab63196374475d7cc32335b0de.webp",
+                                "content": "خهههعههههع",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:34:47.016Z"
+                            },
+                            {
+                                "username": "4_i2",
+                                "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:34:45.105Z"
+                            },
+                            {
+                                "username": "4_i2",
+                                "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                                "content": "متاخدش ف بالك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:34:40.461Z"
+                            },
+                            {
+                                "username": "b2.m",
+                                "avatar": "https://cdn.discordapp.com/avatars/1059760626295132210/e5abfeab63196374475d7cc32335b0de.webp",
+                                "content": "راس اي يسافل @​#",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:34:25.025Z"
+                            },
+                            {
+                                "username": "b2.m",
+                                "avatar": "https://cdn.discordapp.com/avatars/1059760626295132210/e5abfeab63196374475d7cc32335b0de.webp",
+                                "content": "..",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:33:56.543Z"
+                            },
+                            {
+                                "username": "b2.m",
+                                "avatar": "https://cdn.discordapp.com/avatars/1059760626295132210/e5abfeab63196374475d7cc32335b0de.webp",
+                                "content": "🙂",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:33:41.162Z"
+                            },
+                            {
+                                "username": "4_i2",
+                                "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:32:29.057Z"
+                            },
+                            {
+                                "username": "b2.m",
+                                "avatar": "https://cdn.discordapp.com/avatars/1059760626295132210/e5abfeab63196374475d7cc32335b0de.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T12:32:10.098Z"
+                            },
+                            {
+                                "username": "Boda",
+                                "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T08:46:14.027Z"
+                            },
+                            {
+                                "username": "4_i2",
+                                "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                                "content": "https://discord.com/oauth2/authorize?client_id=1215218690627477534&permissions=8&scope=bot+applications.commands",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-03-07T08:46:05.344Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "**Buy-Server\nBy : @​85_y\nServer Name 85_y\nServer ID: 126\nServer UUID: 45320b2a-a949-4973-8143-747af0556f47\nServer Status: installing\nServer Link : https://almasa.website/server/45320b2a**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T12:40:27.052Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "**Buy-Server\nBy : @​85_y\nServer Name 85_y\nServer ID: 125\nServer UUID: 3077d5fb-a4b9-483c-bb9e-a745dc5ce771\nServer Status: installing\nServer Link : https://almasa.website/server/3077d5fb**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T11:59:02.587Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "**Buy-Server\nBy : @​85_y\nServer Name 85_y\nServer ID: 124\nServer UUID: 21a085a5-a9d0-4583-a423-b20e76ff469a\nServer Status: installing\nServer Link : https://almasa.website/server/21a085a5**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T11:47:00.650Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "**Buy-Server\nBy : @​85_y\nServer Name 85_y\nServer ID: 123\nServer UUID: 9abba9b5-ac0b-463e-8602-320e4a837c45\nServer Status: installing\nServer Link : https://almasa.website/server/9abba9b5**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T11:31:38.539Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "**Buy-Server\nBy : [object Object]\nServer Name 85_y\nServer ID: 122\nServer UUID: fe767230-095a-47d8-b49d-fa6136753421\nServer Status: installing\nServer Link : https://almasa.website/server/fe767230**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T11:30:45.898Z"
+                            },
+                            {
+                                "username": "Dead Code",
+                                "avatar": "https://cdn.discordapp.com/avatars/1029080263935930458/e35d5a16b69dee49cc1992a05f10d503.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-29T11:29:15.515Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "و تلاجه باظت",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:49:44.871Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "و الرسيفر باظ",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:49:38.802Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "انا الكبس بتاع النت باظ",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:49:35.508Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "ربنا يعوضك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:49:12.306Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# عاجبك كدا",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:48:55.858Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# بسبب قطع نور",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:48:52.397Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# السيسي بوظلي التلاجه",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:48:49.365Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "مين حرقهولك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:48:09.263Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "اخث",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:48:06.671Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "اي",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:47:55.059Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "بتاعك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:47:54.589Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "شاشه",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:47:53.963Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "كارت",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:47:53.500Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "@​# خلاص صلي ع نبي",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:44:05.231Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انت بتشرب اي يغالي",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:42:51.534Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# ف الله",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:42:13.171Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا كدا بحبك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:42:11.651Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا مقدرك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:42:09.924Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا مش بشتمك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:42:08.502Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا كنت مقدرك",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:41:53.952Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انت بتشتمني ؟",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:41:51.672Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا هسد معاك ف اي حاجه",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:38:21.179Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# لو كورما مزاعلك ف حاجه قلي @​#",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:38:17.407Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# طب هوا مفتحش لينك اصلا",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:38:01.887Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انا هقر بقا",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:37:48.604Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:37:28.716Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# بحبك يا فنان",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:37:26.746Z"
+                            },
+                            {
+                                "username": "85_y",
+                                "avatar": "https://cdn.discordapp.com/avatars/730964747251482624/931449363c14ae799e7f97485b751c53.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:33:42.326Z"
+                            },
+                            {
+                                "username": "grxu",
+                                "avatar": "https://cdn.discordapp.com/avatars/1046866596699844699/741d01ffdb0ece7c2cdc36259bbcbcf7.webp",
+                                "content": "# انتو علي راسي يخواتي",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "image.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/1212341548889546814/1212348832730456124/image.png?ex=6603f7d6&is=65f182d6&hm=a902bd15fdcc25838243f4af7772d317f62430354bda94cde8eeb41cbd991698&"
+                                    }
+                                ],
+                                "pinned": false,
+                                "sentAt": "2024-02-28T10:41:26.115Z"
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "4_i2",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "discord.gg/ln-av",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-12T08:48:05.131Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "**[ <:_:1215271752746278942>, <a:_:1215271757091446824>, <a:_:1215271765690028032> ] Emojis added successfully to the server.**",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:16:08.051Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <a:778931968116785162:1201338755643088926> <:1003450865128050728:1182300200824479855> <a:815898618467975168:1201338707735740506>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:16:03.312Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "**[ <:_:1215271651164299305>, <a:_:1215271656579407893> ] Emojis added successfully to the server.**",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:15:42.059Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <:vodafone:1182616471898165358> <a:1076308359826907206:1201196073616691301> 🌙",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:15:39.017Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "**[ <a:_:1215271565873254440> ] Emojis added successfully to the server.**",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:15:20.651Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:15:18.494Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "An error occurred while adding emojis. Please try again.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:14:15.144Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:14:14.564Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "https://cdn.discordapp.com/emojis/1201338712127176746.gif",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": "https://cdn.discordapp.com/emojis/1201338712127176746.gif",
+                                "timestamp": null,
+                                "color": null,
+                                "fields": [],
+                                "thumbnail": {
+                                    "url": "https://cdn.discordapp.com/emojis/1201338712127176746.gif",
+                                    "proxyURL": "https://images-ext-2.discordapp.net/external/4K9YhpgfU6kz5KTR2stQzJ5kgXvIcXWI1nDTu2xfXCs/https/cdn.discordapp.com/emojis/1201338712127176746.gif",
+                                    "height": 32,
+                                    "width": 32
+                                },
+                                "image": null,
+                                "author": null,
+                                "footer": null
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:12:32.258Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "An error occurred while adding emojis. Please try again.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:12:29.279Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:12:28.957Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "An error occurred while adding emojis. Please try again.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:11:48.172Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-addemojis <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:11:47.556Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:11:35.652Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "حدث خطأ أثناء إضافة الإيموجي.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:06:21.933Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:06:21.634Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "حدث خطأ أثناء إضافة الإيموجي.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:05:21.103Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:05:20.091Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "حدث خطأ أثناء إضافة الإيموجي.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:04:36.983Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:04:36.678Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "حدث خطأ أثناء إضافة الإيموجي.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:03:56.256Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:03:55.652Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "يرجى إرفاق الإيموجي الذي تريد إضافته.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:02:41.517Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:02:40.829Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "يرجى تقديم اسم الإيموجي ورابطه.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:01:34.183Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "-emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:01:33.433Z"
+                    },
+                    {
+                        "username": "4_i2",
+                        "avatar": "https://cdn.discordapp.com/avatars/1069358823959175188/a_d6ee32b52760bef92d6739c313838269.webp",
+                        "content": "!emoji <a:46530:1201338712127176746>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T12:01:22.336Z"
+                    },
+                    {
+                        "username": "Boda",
+                        "avatar": "https://cdn.discordapp.com/avatars/1215218690627477534/a_883a9eaa826ec7bc6cbe12cdef04a3e7.webp",
+                        "content": "@​# تم اعطائك رتبه @new role",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false,
+                        "sentAt": "2024-03-07T08:55:38.759Z"
+                    }
+                ],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "559623605571137",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1710727397740,
+    "guildID": "1212341548352671754",
+    "id": "1219103808249004033"
+}
